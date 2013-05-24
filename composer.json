@@ -1,6 +1,5 @@
 {
     "name": "pinano/datatables-bundle",
-    "version": "1.9.4",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle for wrapping the famous dataTables jquery plugin by SpryMedia",
     "keywords": ["jquery", "dataTables", "bundle"],
