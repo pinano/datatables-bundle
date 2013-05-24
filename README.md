@@ -19,6 +19,19 @@ DataTables 1.9.4
 }
 ```
 
+### Or, if you prefer, choose a specific version
+
+``` js
+// composer.json
+
+{
+    "require": {
+        // ...
+        "pinano/datatables-bundle": "1.9.4"
+    }
+}
+```
+
 ### Add bundle to your application kernel
 
 ``` php
