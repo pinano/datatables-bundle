@@ -63,8 +63,8 @@ Once you have imported all the resources to the vendor folder, you can self-impo
     {% javascripts filter='cssrewrite' output='js/dataTables.js'
         ...
         '@PinanoDataTablesBundle/Resources/public/js/jquery.dataTables.js'
-        '@PinanoDataTablesBundle/Resources/public/js/extras/TableTools/media/js/ZeroClipboard.js'
-        '@PinanoDataTablesBundle/Resources/public/js/extras/TableTools/media/js/TableTools.js'
+        '@PinanoDataTablesBundle/Resources/public/extras/TableTools/media/js/ZeroClipboard.js'
+        '@PinanoDataTablesBundle/Resources/public/extras/TableTools/media/js/TableTools.js'
         ...
         %}
         <script src="{{ asset_url }}"></script>
