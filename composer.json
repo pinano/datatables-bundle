@@ -12,11 +12,9 @@
         }
     ],
     "require": {
-        "php": ">=5.3.2"
-    },
-    "require-dev": {
+        "php": ">=5.3.2",
         "symfony/framework-bundle": "2.*"
-    },
+    }
     "autoload": {
         "psr-0": { "Pinano\\DataTablesBundle": "" }
     },
