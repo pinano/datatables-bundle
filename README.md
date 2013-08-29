@@ -2,7 +2,7 @@
 
 ## Current Version
 
-DataTables 1.9.4
+DataTables 1.9.4 + DataTables Plug-ins
 
 ## Installation
 
@@ -27,7 +27,7 @@ DataTables 1.9.4
 {
     "require": {
         // ...
-        "pinano/datatables-bundle": "1.9.4"
+        "pinano/datatables-bundle": "1.9.4-2"
     }
 }
 ```
