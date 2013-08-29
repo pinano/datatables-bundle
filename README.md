@@ -27,7 +27,7 @@ DataTables 1.9.4 + DataTables Plug-ins
 {
     "require": {
         // ...
-        "pinano/datatables-bundle": "1.9.4-2"
+        "pinano/datatables-bundle": "1.9.4.1"
     }
 }
 ```
