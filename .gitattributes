@@ -19,8 +19,7 @@ composer.phar   binary
 *.doc           binary
 *.docx          binary
 *.eot           binary
-*.git           binary
-*.git           binary
+*.gif           binary
 *.ico           binary
 *.jar           binary
 *.jpeg          binary
